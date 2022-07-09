@@ -1,0 +1,1 @@
+    lbl.config(text = string)
